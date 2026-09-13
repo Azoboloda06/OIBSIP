@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit_Converter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
+    <string name="number_to_convert">number to convert</string>
+    <string name="number_convert">number convert</string>
+    <string name="select_category">Select category</string>
+    <string name="select_from">Select From</string>
+    <string name="select_to">Select To</string>
+</resources>
